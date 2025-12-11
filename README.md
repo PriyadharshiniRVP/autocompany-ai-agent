@@ -3,8 +3,7 @@
 AutoCompany is an AI Agent that turns a single problem statement into a fully scaffolded and deployed startup.
 
 ### Features
-- AI-powered market & competitor research  
-- Auto-generated product design  
+- AI-powered market & competitor research   
 - Auto-generated backend APIs  
 - Auto-generated frontend UI  
 - Kestra workflow orchestration  
